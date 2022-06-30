@@ -1,2 +1,2 @@
 #Calculator-Html
-[View Page](https://github.com/libydelacosta/Calculator-Html) 
+[View Page](https://libydelacosta.github.io/Calculator-Html) 
